@@ -1,4 +1,4 @@
-# HeartDiseasePrediction
+# Detection of Cardiovascular Diseases
 
 Group 31 Project Submission 
 ## Requirements
