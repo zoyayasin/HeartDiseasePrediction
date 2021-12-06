@@ -16,5 +16,5 @@ python heart_disease_regression.py (For Regression model)
 python heart_disease_classifier.py (For Classification model)
 
 
-You can also use similar HeartDiseaseRegression.ipynb and HeartDiseaseClassifier.ipynb for google collab and jupiter by uploading FinalDataClean.csv and heart_statlog_cleveland_hungary_final.csv.
+You can also use similar HeartDiseaseRegression.ipynb and HeartDiseaseClassifier.ipynb for google collab and jupiter by uploading FinalDataClean.csv(Regression data) and heart_statlog_cleveland_hungary_final.csv (Classfier data).
 
