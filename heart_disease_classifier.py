@@ -10,7 +10,7 @@ Original file is located at
 import numpy as np
 import pandas as pd
 
-input_data = pd.read_csv("/content/heart_statlog_cleveland_hungary_final.csv")
+input_data = pd.read_csv("./content/heart_statlog_cleveland_hungary_final.csv")
 
 input_data
 
@@ -211,7 +211,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 #importing data from csv file
-df = pd.read_csv("/content/heart_statlog_cleveland_hungary_final.csv")
+df = pd.read_csv("./content/heart_statlog_cleveland_hungary_final.csv")
 
 X_Train = np.array(df.loc[:, df.columns != 'target'])
 Z=np.array(df.iloc[:,-1])

@@ -1,5 +1,6 @@
 # HeartDiseasePrediction
 
+Group 31 Project Submission 
 ## Requirements
 
 - Python version 3.7
@@ -9,11 +10,11 @@
 
 ## Build
 
-python HeartDiseaseClassifier.py (For Classification model)
+python heart_disease_regression.py (For Regression model)
 
 
-python HeartDiseaseRegression.py (For Regression model)
+python heart_disease_classifier.py (For Classification model)
 
 
-Can also use similar HeartDiseaseRegression.ipynb and HeartDiseaseClassifier.ipynb for google collab and jupiter.
+You can also use similar HeartDiseaseRegression.ipynb and HeartDiseaseClassifier.ipynb for google collab and jupiter by uploading FinalDataClean.csv and heart_statlog_cleveland_hungary_final.csv.
 

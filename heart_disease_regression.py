@@ -12,7 +12,7 @@ import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import matplotlib.pyplot as plt
 plt.style.use('seaborn-whitegrid')
 
-input_data = pd.read_csv("/content/FinalDataClean.csv")
+input_data = pd.read_csv("./content/FinalDataClean.csv")
 input_data.head()
 
 #handling missing values
@@ -226,7 +226,6 @@ plt.ylabel('Mean abs error')
 plt.legend()
 plt.title("Error bar plot for different C values for Ridge and Lasso models")
 plt.show()
-print(mean_error)
 print(mean_error1)
 print(mean_error2)
 
@@ -265,4 +264,3 @@ plt.ylabel('Mean abs error')
 plt.legend()
 plt.title("Error bar plot for different C values for Ridge and Lasso models")
 plt.show()
-print(mean_error)
