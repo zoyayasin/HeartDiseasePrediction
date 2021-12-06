@@ -8,8 +8,12 @@
 - sckitt learn (https://scikit-learn.org/stable/modules/classes.html)
 
 ## Build
+
 python HeartDiseaseClassifier.py (For Classification model)
+
+
 python HeartDiseaseRegression.py (For Regression model)
 
-Can also use similar HeartDiseaseRegression.ipynb and HeartDiseaseClassifier.ipynb
+
+Can also use similar HeartDiseaseRegression.ipynb and HeartDiseaseClassifier.ipynb for google collab and jupiter.
 
